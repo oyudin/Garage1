@@ -1,10 +1,10 @@
-package com.example.garage1;
+package com.example.garage;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Garage1ApplicationTests {
+class Garage2ApplicationTests {
 
     @Test
     void contextLoads() {
